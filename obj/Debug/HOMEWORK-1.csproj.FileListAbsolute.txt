@@ -1,0 +1,6 @@
+C:\Users\PCPCPC\Desktop\Zadatak\bin\Debug\Zadatak.exe.config
+C:\Users\PCPCPC\Desktop\Zadatak\bin\Debug\Zadatak.exe
+C:\Users\PCPCPC\Desktop\Zadatak\bin\Debug\Zadatak.pdb
+C:\Users\PCPCPC\Desktop\Zadatak\obj\Debug\HOMEWORK-1.csprojResolveAssemblyReference.cache
+C:\Users\PCPCPC\Desktop\Zadatak\obj\Debug\Zadatak.exe
+C:\Users\PCPCPC\Desktop\Zadatak\obj\Debug\Zadatak.pdb

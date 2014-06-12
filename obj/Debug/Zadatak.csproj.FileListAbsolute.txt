@@ -1,0 +1,11 @@
+C:\Users\Sanyin\Desktop\ismar dzanko\Zadatak\Zadatak\bin\Debug\Zadatak.exe.config
+C:\Users\Sanyin\Desktop\ismar dzanko\Zadatak\Zadatak\bin\Debug\Zadatak.exe
+C:\Users\Sanyin\Desktop\ismar dzanko\Zadatak\Zadatak\bin\Debug\Zadatak.pdb
+C:\Users\Sanyin\Desktop\ismar dzanko\Zadatak\Zadatak\obj\Debug\Zadatak.exe
+C:\Users\Sanyin\Desktop\ismar dzanko\Zadatak\Zadatak\obj\Debug\Zadatak.pdb
+C:\Users\PCPCPC\Desktop\Zadatak\bin\Debug\Zadatak.exe.config
+C:\Users\PCPCPC\Desktop\Zadatak\obj\Debug\Zadatak.exe
+C:\Users\PCPCPC\Desktop\Zadatak\obj\Debug\Zadatak.pdb
+C:\Users\PCPCPC\Desktop\Zadatak\bin\Debug\Zadatak.exe
+C:\Users\PCPCPC\Desktop\Zadatak\bin\Debug\Zadatak.pdb
+C:\Users\PCPCPC\Desktop\Zadatak\obj\Debug\Zadatak.csprojResolveAssemblyReference.cache
